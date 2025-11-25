@@ -1,6 +1,0 @@
-;status;order_count;percentage;avg_items_per_order
-0;Shipped;37558;30.03;1.45
-1;Complete;31160;24.91;1.45
-2;Processing;25091;20.06;1.46
-3;Cancelled;18809;15.04;1.45
-4;Returned;12465;9.97;1.45
