@@ -1,0 +1,7 @@
+event_type;event_count;unique_users;avg_sequence
+product;845135;79916;2.72
+department;594887;79916;2.45
+cart;594271;79916;4.24
+purchase;181591;79916;7.18
+cancel;124918;0;3.0
+home;87475;63011;1.0

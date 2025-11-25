@@ -1,0 +1,109 @@
+gender;age_segment;category;purchases;revenue;
+0;F;Senior;Intimates;5830;199159.46
+1;F;Middle;Intimates;4506;154549.99
+2;M;Senior;Jeans;3442;343530.48
+3;M;Senior;Tops & Tees;3318;140991.7
+4;M;Senior;Underwear;3264;90026.36
+5;M;Senior;Pants;3149;186255.36
+6;M;Senior;Sweaters;3087;241529.63
+7;F;Young;Intimates;2966;103416.86
+8;M;Senior;Sleep & Lounge;2903;145063.57
+9;M;Senior;Fashion Hoodies & Sweatshirts;2886;169115.39
+10;M;Senior;Shorts;2862;142649.21
+11;M;Senior;Swim;2762;137927.47
+12;M;Senior;Socks;2728;54488.34
+13;M;Middle;Jeans;2688;272767.63
+14;M;Middle;Tops & Tees;2540;103966.41
+15;M;Middle;Underwear;2516;69267.85
+16;M;Senior;Outerwear & Coats;2505;376757.96
+17;M;Middle;Pants;2475;147209.22
+18;M;Senior;Accessories;2462;98462.43
+19;F;Senior;Dresses;2372;195737.8
+20;M;Middle;Sweaters;2364;183019.05
+21;F;Senior;Jeans;2273;213418.92
+22;M;Middle;Fashion Hoodies & Sweatshirts;2263;132433.85
+23;F;Senior;Maternity;2258;114046.42
+24;M;Senior;Suits & Sport Coats;2232;281926.13
+25;M;Senior;Active;2225;104460.67
+26;M;Middle;Sleep & Lounge;2222;108099.74
+27;M;Middle;Shorts;2220;110772.31
+28;F;Senior;Swim;2220;144303.81
+29;M;Middle;Socks;2178;43719.76
+30;M;Middle;Swim;2166;107313.29
+31;F;Senior;Fashion Hoodies & Sweatshirts;2165;105020.71
+32;F;Senior;Sleep & Lounge;2077;104175.41
+33;F;Senior;Shorts;2038;80012.23
+34;F;Senior;Tops & Tees;1949;82109.27
+35;M;Middle;Outerwear & Coats;1945;292601.63
+36;M;Middle;Accessories;1935;79270.54
+37;F;Senior;Plus;1878;68672.93
+38;F;Senior;Accessories;1874;87661.19
+39;F;Senior;Sweaters;1854;136687.12
+40;F;Middle;Dresses;1834;148449.33
+41;M;Middle;Active;1809;88848.28
+42;F;Middle;Jeans;1792;167143.89
+43;M;Middle;Suits & Sport Coats;1764;227179.22
+44;F;Middle;Swim;1753;115940.54
+45;F;Middle;Maternity;1737;88552.06
+46;M;Young;Tops & Tees;1690;71182.77
+47;F;Middle;Fashion Hoodies & Sweatshirts;1682;83289.72
+48;F;Senior;Active;1680;90536.69
+49;M;Young;Jeans;1642;168021.29
+50;M;Young;Pants;1638;95108.23
+51;F;Middle;Shorts;1612;62852.7
+52;M;Young;Underwear;1607;43707.58
+53;F;Senior;Socks & Hosiery;1607;27724.7
+54;F;Middle;Sleep & Lounge;1593;75711.39
+55;F;Middle;Tops & Tees;1564;61351.74
+56;F;Senior;Pants & Capris;1551;83919.48
+57;F;Senior;Outerwear & Coats;1526;217206.03
+58;M;Young;Sweaters;1492;117087.77
+59;F;Middle;Accessories;1485;67856.64
+60;M;Young;Sleep & Lounge;1476;72459.33
+61;M;Young;Fashion Hoodies & Sweatshirts;1476;86022.27
+62;M;Young;Swim;1440;70679.32
+63;F;Senior;Leggings;1427;37673.51
+64;F;Middle;Plus;1419;53490.34
+65;F;Middle;Sweaters;1408;108169.02
+66;F;Senior;Blazers & Jackets;1392;124199.06
+67;M;Young;Socks;1363;29580.4
+68;M;Young;Shorts;1352;72304.06
+69;F;Middle;Active;1305;74727.32
+70;M;Young;Accessories;1273;55084.53
+71;M;Young;Outerwear & Coats;1266;186584.57
+72;F;Middle;Socks & Hosiery;1187;20035.34
+73;F;Middle;Outerwear & Coats;1174;163558.49
+74;M;Young;Active;1161;57328.7
+75;F;Middle;Pants & Capris;1158;63315.2
+76;F;Young;Dresses;1133;97942.54
+77;F;Young;Fashion Hoodies & Sweatshirts;1128;55288.24
+78;F;Middle;Leggings;1114;31725.59
+79;F;Young;Maternity;1112;57200.1
+80;F;Young;Swim;1104;72758.11
+81;F;Young;Jeans;1098;102749.2
+82;M;Young;Suits & Sport Coats;1081;143533.86
+83;F;Young;Shorts;1066;43371.02
+84;F;Middle;Blazers & Jackets;1045;98571.12
+85;F;Young;Tops & Tees;1043;43959.72
+86;F;Young;Sleep & Lounge;1002;49513.01
+87;F;Senior;Skirts;965;52097.51
+88;F;Young;Plus;957;39160.35
+89;F;Young;Sweaters;934;65763.17
+90;F;Young;Accessories;907;38822.91
+91;F;Young;Socks & Hosiery;873;14806.93
+92;F;Young;Active;872;50040.31
+93;F;Young;Pants & Capris;798;43002.4
+94;F;Young;Outerwear & Coats;751;110252.01
+95;F;Middle;Skirts;716;37512.17
+96;F;Young;Blazers & Jackets;689;60660.71
+97;F;Young;Leggings;669;19451.98
+98;F;Young;Skirts;472;26268.62
+99;F;Senior;Suits;441;50750.15
+100;F;Senior;Jumpsuits & Rompers;399;20020.01
+101;F;Middle;Suits;360;42620.62
+102;F;Middle;Jumpsuits & Rompers;295;14260.95
+103;F;Young;Suits;241;28365.46
+104;F;Young;Jumpsuits & Rompers;183;7582.68
+105;F;Senior;Clothing Sets;83;7067.61
+106;F;Middle;Clothing Sets;74;6279.0
+107;F;Young;Clothing Sets;54;4682.75
