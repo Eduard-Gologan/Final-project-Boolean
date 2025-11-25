@@ -1,0 +1,6 @@
+customer_segment;customer_count;avg_spent_per_customer;avg_orders_per_customer
+VIP Customer;176;628.51;10.45
+Loyal Customer;7899;352.39;5.87
+Regular Customer;36941;159.45;2.67
+One-time Customer;34900;59.64;1.0
+No Orders;20084;;0.0
